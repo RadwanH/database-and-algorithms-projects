@@ -30,7 +30,7 @@
 
 ### Time Complexity:
 #### Average case: When the value is at the middle,
-##### O(n²)
+###### O(n²)
 
 #### Worst case: When the value is at the end, 
 ###### O(n²)
